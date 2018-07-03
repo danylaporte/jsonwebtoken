@@ -16,5 +16,5 @@ serde_derive = "1.0"
 serde = "1.0"
 ring = { version = "0.13.0-alpha5", features = ["rsa_signing", "dev_urandom_fallback"] }
 base64 = "0.9"
-untrusted = "0.5"
+untrusted = "0.6.2"
 chrono = "0.4"
